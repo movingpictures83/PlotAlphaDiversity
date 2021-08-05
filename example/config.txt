@@ -1,0 +1,2 @@
+Prefix plugins/PlotAlphaDiversity/example
+Plugin PlotAlphaDiversity inputfile parameters.txt outputfile alpha

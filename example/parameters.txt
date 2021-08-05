@@ -1,0 +1,4 @@
+biomfile	otu_table.biom
+mapping	mapping.txt
+depth	15000
+tree	rep_set.tre
